@@ -6,7 +6,8 @@
 
 using namespace std;
 
-//Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
+	// Haftor gerir eina breytingu
+	//Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
 
 //Þetta fall á að reikna út hversu margar eldspýtur eru eftir í hrúgunum:
@@ -31,7 +32,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-		cout << "Vidd er adeins of nettur!" << endl; 
+			cout << "Viddi er adeins of nettur!! Rokkjotunin!!" << endl; 
 		int val;
 		do
 	{

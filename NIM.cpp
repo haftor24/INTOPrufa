@@ -218,6 +218,7 @@ void tolva( int* hruga )
 		getchar( );
 	}
 	cout << endl;
+	cout << endl; "Vidir vann allt saman" << endl;
 }
 
 int samtals( int* hruga )

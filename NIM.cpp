@@ -32,7 +32,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-			cout << "Viddi er adeins of nettur!! Rokkjotunin!!" << endl; 
+			cout << "Snipi er adeins of nettur!!" << endl; 
 		int val;
 		do
 	{

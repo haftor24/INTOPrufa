@@ -6,7 +6,8 @@
 
 using namespace std;
 
-//Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
+	// Haftor gerir eina breytingu
+	//Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
 
 //Þetta fall á að reikna út hversu margar eldspýtur eru eftir í hrúgunum:
@@ -229,5 +230,6 @@ int samtals( int* hruga )
 		samtala += hruga[ i ];
 	}
 
+<<<<<<< HEAD
 	return samtala;
 }

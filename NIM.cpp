@@ -32,8 +32,9 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-	int val;
-	do
+			cout << "Viddi er adeins of nettur!! Rokkjotunin!!" << endl; 
+		int val;
+		do
 	{
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
@@ -230,6 +231,5 @@ int samtals( int* hruga )
 		samtala += hruga[ i ];
 	}
 
-<<<<<<< HEAD
 	return samtala;
 }

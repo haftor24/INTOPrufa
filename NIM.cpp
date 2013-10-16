@@ -31,8 +31,9 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-	int val;
-	do
+		cout << "Vidd er adeins of nettur!" << endl; 
+		int val;
+		do
 	{
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
